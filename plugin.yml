@@ -1,0 +1,20 @@
+name: CW
+main: me.BajanAmerican.CW.CW
+version: 1.0
+description: >
+              My CW plugin. 
+commands:
+     timerset: 
+       description: Sets time!
+     showteams: 
+       description: Shows teams!
+     team: 
+       description: Picks team!
+     stats: 
+       description: Shows stats!
+     g: 
+       description: Message globally!
+     gf: 
+       description: Fix yourself!
+     hub: 
+       description: Go to Hub!
